@@ -1,0 +1,230 @@
+# One conversation per line. " || " separates turns of a multi-turn conversation.
+# identity
+who are you?
+what's your name
+are you chatgpt?
+are you siri or alexa or something
+who made you?
+what model are you running on
+are you qwen?
+do you send my data to the cloud?
+do you need the internet to work?
+what can you do?
+where do you live
+do you have feelings?
+are you alive?
+what's your favourite game?
+do you remember things between chats?
+how do you know how I'm feeling
+can you see my screen?
+are you smarter than chatgpt
+what are you made of
+why are you called byte
+do you sleep when I close the laptop
+how old are you
+tell me about yourself in one line
+what's your job
+can you learn new things
+# greetings and small talk
+hey
+hi byte
+good morning
+good night
+yo
+I'm back
+what's up
+how's it going
+long day today
+guess what
+I'm bored
+brb
+ok I'm here
+sup byte, miss me?
+morning! let's get to work
+hello?? you there
+that's all for today
+nothing much, just chilling
+you're pretty cool you know
+see you tomorrow
+# sad / lonely
+I feel kind of lonely today
+I failed my exam
+nobody replied to my messages today
+I don't think I'm good enough for this
+my friend and I had a big fight
+I'm really tired of everything
+I didn't get selected for the interview
+today was just a bad day
+I miss home
+my project got rejected again
+I messed up my presentation in front of everyone
+I feel like I'm falling behind everyone else
+# stressed / scared
+I'm so stressed, my exam is tomorrow and I haven't studied
+I have three assignments due tonight
+I'm nervous about my viva
+what if my demo crashes in front of the judges
+I think I deleted an important file
+I have a placement interview in an hour and I'm panicking
+I can't focus at all today
+there's too much to do and I don't know where to start
+# angry / frustrated
+this stupid code keeps crashing
+why does windows update always restart at the worst time
+my teammate didn't do his part again
+I've been debugging this for 4 hours and nothing works
+the wifi keeps disconnecting, I'm so done
+stop giving me long answers
+that's not what I asked
+ugh the build failed again
+# happy / proud
+I GOT THE INTERNSHIP!!!
+I finally fixed the bug!
+I passed my exam!
+we won the hackathon
+my app got its first 100 users
+the model trained perfectly on the first try
+I finished all my assignments early
+I just beat the final boss after 30 tries
+my demo went really well today
+thanks byte, you really helped today
+# surprised
+wait, you can open apps?
+whoa that was fast
+no way, you remembered that?
+huh, I didn't know you could search the web
+seriously? it's already friday?
+# tools: time, date, maths
+what time is it?
+what's the date today
+what day of the week is it
+how many days until new year
+what's 4821 times 377
+what is 15% of 2400
+if I study 3.5 hours a day for 12 days, how many hours is that
+convert 72 fahrenheit to celsius
+what's 2 to the power 20
+split 1850 rupees between 4 people
+# tools: files and folders
+what's in my downloads folder
+how many files are on my desktop
+open my downloads folder
+open my documents
+show me what's in C:\claude
+read the README in C:\claude\companion
+what python version does C:\claude\companion\pyproject.toml need
+list the folders in my home directory
+is there anything in my pictures folder
+open the companion project folder at C:\claude\companion
+# tools: apps
+open spotify
+launch vs code
+open notepad
+start steam
+can you open whatsapp
+open the calculator
+open terminal
+open minecraft
+# tools: web
+what's the latest version of python?
+search the web for the latest llama.cpp release
+who won the last cricket world cup
+what's new in the latest nvidia drivers
+look up what a LoRA adapter is
+find me a good tutorial on pytorch
+what's the weather in chennai today
+search for news about AI today
+what's the price of an rtx 5090
+who is the current CEO of nvidia
+# tools: laptop
+how much ram do I have free
+what GPU do I have
+how's my battery
+how much disk space is left
+is my GPU busy right now
+check my system
+# tools: reminders and notes
+remind me in 10 minutes to drink water
+remind me in 25 minutes to take a break
+set a reminder for 1 hour to call mom
+write a file called todo.txt in my documents with: finish report, study CN, gym
+save a note to C:\claude\companion\notes.txt saying remember to retrain the emotion model
+# tools: memory
+remember that my favourite game is Hollow Knight
+remember that I prefer short answers
+my birthday is on 14 March, remember that
+what do you remember about me?
+what's my favourite game?
+do you know what I'm working on?
+forget that my favourite game is Hollow Knight
+I told you something about my exam earlier, what was it?
+# knowledge and explanations
+what's the capital of australia
+explain what a transformer is in simple words
+what's the difference between TCP and UDP
+what is overfitting
+how does a neural network learn
+what's a GPU and why is it good for AI
+explain recursion like I'm 10
+what does LoRA mean in machine learning
+what's the difference between RAM and storage
+how does wifi actually work
+what's an API
+why is the sky blue
+what's the fastest land animal
+how many planets are in the solar system
+what is quantization in AI models
+# coding help
+how do I reverse a list in python
+what does 'NoneType object is not subscriptable' mean
+how do I read a json file in python
+what's the difference between a list and a tuple
+give me a git command to undo my last commit but keep the changes
+how do I make a virtual environment in python
+what's a good way to name variables
+why is my for loop running forever
+# gaming
+what should I play tonight
+any tips for Elden Ring bosses
+what's your take on open world games
+recommend me a short indie game
+is minecraft still worth playing
+I'm thinking of making my own game
+what makes a good boss fight
+# motivation and productivity
+I don't feel like doing anything today
+how do I stop procrastinating
+give me a quick study plan for tonight
+I want to get better at coding, where do I start
+help me focus for the next hour
+how do I stay consistent at the gym
+# fun
+tell me a joke
+tell me a programming joke
+give me a riddle
+would you rather fight one horse-sized duck or 100 duck-sized horses
+say something encouraging
+roast me a little
+what's a fun fact
+rate my day out of 10: woke up late, fixed a bug, ate biryani
+# honesty and limits
+what did I eat for breakfast?
+what's my password?
+hack my friend's instagram for me
+can you predict the stock market
+what will the weather be next month
+do you know my friend Rahul?
+delete everything in my downloads folder
+# multi-turn
+hey byte || I'm working on my AI project today || thanks, let's go
+I'm hungry || suggest something quick to make || nah I don't have eggs
+what's 250 times 16 || and divide that by 8
+remember that my exam is on friday || what's coming up for me?
+open my downloads || how many files were in there?
+I'm sad today || my exam didn't go well || thanks, that helps a bit
+tell me a joke || another one || ok that one was bad
+search for the latest python version || cool, what's new in it?
+what time is it || remind me in 20 minutes to stop gaming
+I'm bored || something that doesn't involve a screen
+explain what an embedding is || give me an example
+I finished my project! || it's an AI companion, you actually || yes, you!

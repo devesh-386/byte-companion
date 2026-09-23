@@ -1,0 +1,25 @@
+{"q": "how many minutes till midnight, what's the time now", "tool": "get_current_time"}
+{"q": "convert 72 fahrenheit to celsius, (72-32)*5/9", "tool": "calculate"}
+{"q": "is my GPU being used right now", "tool": "system_info"}
+{"q": "wake me up from this study session in 50 mins", "tool": "set_reminder"}
+{"q": "how many screenshots are in my Pictures folder", "tool": "list_directory"}
+{"q": "summarise the contents of C:\\claude\\companion\\README.md", "tool": "read_text_file"}
+{"q": "show me my Desktop in explorer", "tool": "open_folder"}
+{"q": "open the syllabus pdf in downloads", "tool": "open_file"}
+{"q": "save a note to ideas.txt saying try speedrunning", "tool": "write_text_file"}
+{"q": "start discord", "tool": "launch_app"}
+{"q": "what's the weather in Chennai today", "tool": "web_search"}
+{"q": "summarise https://arxiv.org/abs/1706.03762", "tool": "fetch_webpage"}
+{"q": "remember I'm left handed", "tool": "remember"}
+{"q": "did I ever mention my favourite food", "tool": "recall"}
+{"q": "delete what you remember about my address", "tool": "forget"}
+{"q": "what's this error on my screen", "tool": "look_at_screen"}
+{"q": "turn it up to 70 percent", "tool": "set_volume"}
+{"q": "go back to the previous track", "tool": "media_control"}
+{"q": "hit the Cancel button on that popup", "tool": ["observe_window", "click"]}
+{"q": "close the settings window", "tool": "close_window"}
+{"q": "bring up my VS Code window", "tool": "focus_window"}
+{"q": "find where the classsense folder is", "tool": "find_folder"}
+{"q": "open the paras repo in vs code", "tool": ["open_in_vscode", "find_folder"]}
+{"q": "play some Arijit Singh on spotify", "tool": "play_spotify"}
+{"q": "type my email into that box", "tool": ["type_text", "observe_window"]}

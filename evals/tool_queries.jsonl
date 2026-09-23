@@ -1,0 +1,75 @@
+{"q": "yo what time is it rn", "tool": "get_current_time"}
+{"q": "is it friday already?", "tool": "get_current_time"}
+{"q": "how late is it, should I sleep", "tool": "get_current_time"}
+{"q": "what's the date today", "tool": "get_current_time"}
+{"q": "what's 17% tip on 850 rupees", "tool": "calculate"}
+{"q": "multiply 239 by 4411", "tool": "calculate"}
+{"q": "if I have 3 hours and 7 chapters, how many minutes per chapter", "tool": "calculate"}
+{"q": "square root of 144 plus 12 squared", "tool": "calculate"}
+{"q": "is my laptop running hot", "tool": "system_info"}
+{"q": "am I plugged in or on battery", "tool": "system_info"}
+{"q": "how full is my C drive", "tool": "system_info"}
+{"q": "what are my laptop specs", "tool": "system_info"}
+{"q": "remind me to call mom in 45 minutes", "tool": "set_reminder"}
+{"q": "nudge me in half an hour to take a break", "tool": "set_reminder"}
+{"q": "set an alarm for 5 minutes, my maggi is cooking", "tool": "set_reminder"}
+{"q": "in 2 hours tell me to submit the assignment", "tool": "set_reminder"}
+{"q": "What's the newest file in my Downloads folder?", "tool": "list_directory"}
+{"q": "list everything on my desktop", "tool": "list_directory"}
+{"q": "which projects are in C:\\claude", "tool": "list_directory"}
+{"q": "do I have any pdfs in documents", "tool": "list_directory"}
+{"q": "what's written in my todo.txt", "tool": "read_text_file"}
+{"q": "show me the README of the companion repo", "tool": "read_text_file"}
+{"q": "read out my config.yaml", "tool": "read_text_file"}
+{"q": "check what my notes file says about the exam", "tool": "read_text_file"}
+{"q": "pop open my Pictures folder", "tool": "open_folder"}
+{"q": "take me to the downloads directory in file explorer", "tool": "open_folder"}
+{"q": "open the folder where my screenshots are", "tool": "open_folder"}
+{"q": "show my Documents folder window", "tool": "open_folder"}
+{"q": "play the video lecture.mp4 in my downloads", "tool": "open_file"}
+{"q": "open resume.pdf from my desktop", "tool": "open_file"}
+{"q": "open that excel sheet budget.xlsx", "tool": "open_file"}
+{"q": "play song.mp3 from my music folder", "tool": "open_file"}
+{"q": "Add 'study CN unit 3' to my todo list", "tool": "write_text_file"}
+{"q": "make a file called ideas.txt with my game ideas", "tool": "write_text_file"}
+{"q": "jot this down in my notes: buy a new mouse", "tool": "write_text_file"}
+{"q": "create a shopping list text file", "tool": "write_text_file"}
+{"q": "Open my CogniHire project in VS Code.", "tool": ["open_in_vscode", "find_folder"]}
+{"q": "fire up steam", "tool": "launch_app"}
+{"q": "open Telegram for me", "tool": "launch_app"}
+{"q": "Play some music on Spotify.", "tool": ["play_spotify", "launch_app"]}
+{"q": "What's the latest version of PyTorch?", "tool": "web_search"}
+{"q": "who won the IPL final this year", "tool": "web_search"}
+{"q": "google the RTX 5050 benchmarks", "tool": "web_search"}
+{"q": "find me a tutorial on transformers", "tool": "web_search"}
+{"q": "open this link and tell me what it says https://docs.python.org/3/whatsnew", "tool": "fetch_webpage"}
+{"q": "go through https://pytorch.org/get-started and summarise it", "tool": "fetch_webpage"}
+{"q": "read the first search result for me", "tool": "fetch_webpage"}
+{"q": "get the text of https://en.wikipedia.org/wiki/Valorant", "tool": "fetch_webpage"}
+{"q": "remember my exam is on 3rd October", "tool": "remember"}
+{"q": "keep in mind I hate spicy food", "tool": "remember"}
+{"q": "note that my sister's name is Priya", "tool": "remember"}
+{"q": "save this about me: I main Jett in Valorant", "tool": "remember"}
+{"q": "what do you know about me", "tool": ["memory_overview", "recall"]}
+{"q": "when did I say my exam was", "tool": "recall"}
+{"q": "have I told you my sister's name?", "tool": "recall"}
+{"q": "what was that game I told you I play", "tool": "recall"}
+{"q": "forget that I hate spicy food", "tool": "forget"}
+{"q": "erase the memory about my exam date", "tool": "forget"}
+{"q": "remove what you know about my sister", "tool": "forget"}
+{"q": "wipe that fact about Valorant", "tool": "forget"}
+{"q": "Set my volume to 30%.", "tool": "set_volume"}
+{"q": "it's too loud, bring the sound down to 20", "tool": "set_volume"}
+{"q": "pause whatever is playing", "tool": "media_control"}
+{"q": "skip to the next song", "tool": "media_control"}
+{"q": "A dialog popped up. Click OK on it.", "tool": ["observe_window", "click"]}
+{"q": "what options are in this settings window", "tool": "observe_window"}
+{"q": "Close the 'close-me' folder window.", "tool": "close_window"}
+{"q": "shut the calculator window", "tool": "close_window"}
+{"q": "switch over to my browser", "tool": "focus_window"}
+{"q": "where's my paras project folder", "tool": "find_folder"}
+{"q": "Open Notepad, type hello, and save it", "tool": ["launch_app", "type_text"]}
+{"q": "press ctrl+z to undo that", "tool": "press_keys"}
+{"q": "what apps have I got open", "tool": "list_open_windows"}
+{"q": "put on some lofi beats on spotify", "tool": "play_spotify"}
+{"q": "Play the latest video in my Telegram Saved Messages.", "tool": ["launch_app", "focus_window", "observe_window"]}

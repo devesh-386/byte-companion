@@ -1,0 +1,133 @@
+neutral	what's the date today
+neutral	open my documents folder
+neutral	can you list the files on my desktop
+neutral	read the readme in my project folder
+neutral	how many files are in my downloads
+neutral	what's 234 times 19
+neutral	remind me what we talked about yesterday
+neutral	search the web for the latest python release
+neutral	what's the weather like
+neutral	tell me a fun fact
+neutral	how do I reverse a list in python
+neutral	summarize this file for me
+neutral	what does this error mean
+neutral	open spotify
+neutral	close that window
+neutral	what's on my schedule
+neutral	explain how transformers work
+neutral	can you check my notes folder
+neutral	what can you do
+neutral	who made you
+neutral	convert 5 miles to km
+neutral	ok
+neutral	sure, go ahead
+neutral	next one
+neutral	show me the code again
+neutral	what's the capital of australia
+neutral	how long will training take
+neutral	let's continue from where we left off
+neutral	hey
+neutral	hi there
+neutral	good morning
+neutral	what's up
+neutral	I'm back
+neutral	alright let's work on the project
+neutral	give me the steps
+neutral	how much ram does my laptop have
+neutral	what version of python do I have
+neutral	find the file called report
+neutral	what is 20 percent of 850
+neutral	read me the first few lines
+joy	I finally fixed the bug!!
+joy	yesss the model trained perfectly
+joy	I passed my exam!
+joy	we won the hackathon
+joy	I got selected for the job!!
+joy	this is awesome, thank you so much
+joy	haha that's hilarious
+joy	you're the best
+joy	it works!!! it actually works
+joy	I cleared the interview round
+joy	got an A on my project
+joy	my demo went really well today
+joy	love this, great job
+joy	lol nice one
+joy	I'm so happy right now
+joy	best day ever
+joy	finally finished the whole assignment
+joy	my app got its first 100 users
+joy	thanks buddy, you saved me
+joy	I just beat the final boss
+joy	we shipped it!
+joy	I got my offer letter
+joy	my friends threw me a surprise party and it was amazing
+joy	that was fun
+joy	you nailed it
+sadness	I failed the exam
+sadness	I'm so tired of everything
+sadness	nobody showed up to my birthday
+sadness	I didn't get the job
+sadness	I miss my family
+sadness	today was a really bad day
+sadness	I feel like I'm not good enough
+sadness	my project got rejected
+sadness	I lost all my progress
+sadness	my dog is sick
+sadness	I feel so alone
+sadness	it's been a rough week
+sadness	I messed up the presentation
+sadness	I don't think I can do this anymore
+sadness	my best friend moved away
+sadness	I got a really low score
+sadness	I'm feeling down today
+sadness	everyone else is doing better than me
+sadness	I wasted the whole day
+sadness	I broke up with my girlfriend
+anger	why does this stupid thing keep crashing
+anger	I'm so done with this laptop
+anger	this code is garbage
+anger	the wifi keeps dropping, I'm furious
+anger	windows updated again in the middle of my work
+anger	who wrote this terrible api
+anger	I hate this error
+anger	stop giving me wrong answers
+anger	that's not what I asked
+anger	this is ridiculous
+anger	the build failed for the tenth time
+anger	my teammate deleted my branch
+anger	seriously? again?
+anger	this makes me so angry
+anger	ugh the compiler is useless
+anger	that's so unfair
+anger	I've told you three times already
+anger	why is everything broken today
+fear	my exam is tomorrow and I haven't studied
+fear	I'm scared I'll fail
+fear	what if the demo crashes in front of everyone
+fear	I'm anxious about the interview
+fear	the deadline is in two hours and nothing works
+fear	I think I deleted something important
+fear	I'm worried about my results
+fear	my hands are shaking before the viva
+fear	what if they find out
+fear	I'm terrified of public speaking
+fear	I have a bad feeling about this
+fear	I'm stressed about the placement test
+fear	my laptop is making weird noises, is it dying
+fear	I'm nervous about meeting them
+fear	I can't stop panicking
+surprise	wait what??
+surprise	no way!
+surprise	whoa that was fast
+surprise	seriously?? it did that on its own?
+surprise	I can't believe it
+surprise	omg really?
+surprise	huh, that's unexpected
+surprise	wow I had no idea
+surprise	wait, you can see my screen?
+surprise	hold on, it's already done?
+surprise	that's insane
+surprise	oh wow, didn't see that coming
+surprise	what?! since when
+surprise	you remembered that?
+surprise	woah it's snowing

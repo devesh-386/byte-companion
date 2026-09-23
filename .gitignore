@@ -1,0 +1,16 @@
+# Large or regenerable - see README "Rebuilding from scratch"
+models/
+llama.cpp-bin/
+llama.cpp-src/
+data/
+artifacts/
+logs/
+*.gguf
+
+.venv/
+__pycache__/
+.pytest_cache/
+notes.txt
+
+# Suite transcripts contain real window titles and screen contents
+evals/results/

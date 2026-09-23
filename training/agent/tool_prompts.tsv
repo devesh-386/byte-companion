@@ -1,0 +1,58 @@
+# expected_tool<TAB>request. Practice requests for Byte's own tools, written fresh: none of these appear in
+# evals/tool_queries*.jsonl or the task suite, so training can't leak into the scores.
+get_current_time	yo byte what's the time
+get_current_time	which day of the week is it today
+get_current_time	is it still morning?
+calculate	what's 3.5% of 85000
+calculate	how much is 1299 divided by 12
+calculate	if a game costs 2799 and I have 1650, how much more do I need
+calculate	what is 17 squared minus 44
+system_info	how's my battery doing
+system_info	is my RAM almost full?
+system_info	what graphics card is in this laptop
+set_reminder	remind me in 10 minutes to check the oven
+set_reminder	ping me in 40 mins to join the lecture
+set_reminder	in 90 minutes remind me to call Rahul
+list_directory	what's in my Desktop folder
+list_directory	show me what's in Documents
+list_directory	which is the most recent file in my Downloads
+list_directory	how many files are in my Pictures folder
+read_text_file	read C:\claude\companion\README.md for me
+read_text_file	what does the file C:\claude\companion\docs\tasks.md say about T06
+open_folder	open my Music folder
+open_folder	pop open the Videos folder
+open_file	open the README in C:\claude\companion with its default app
+write_text_file	make a new file C:\Users\dev\notes\ideas.txt that says try a roguelike
+write_text_file	add 'buy headphones' to C:\Users\dev\notes\shopping.txt
+web_search	what's new in Python 3.14
+web_search	search for the best budget gaming mouse
+web_search	who is the current F1 world champion
+fetch_webpage	read https://docs.python.org/3/tutorial/index.html and tell me what it covers
+fetch_webpage	what does https://en.wikipedia.org/wiki/Minecraft say about the release date
+launch_app	open discord
+launch_app	start the calculator
+launch_app	launch steam
+remember	remember that I prefer dark mode everywhere
+remember	btw my best friend is called Arjun
+recall	did I ever tell you what laptop I have
+recall	what do you know about my college
+memory_overview	tell me everything you remember about me
+forget	forget that I prefer dark mode
+media_control	skip this song
+media_control	pause the music for a sec
+set_volume	turn the volume to 45
+set_volume	make it quieter, like 15 percent
+focus_window	switch to my VS Code window
+find_folder	where's my cognihire folder
+open_in_vscode	open the companion project in VS Code, it's at C:\claude\companion
+play_spotify	play some chill music on spotify
+list_open_windows	which windows are open right now
+observe_window	what buttons does the Byte Test window have
+click	click the OK button in the Byte Test window
+type_text	type good morning into the Byte Test window
+press_keys	press ctrl+s to save
+close_window	close the Byte Test window
+search_own_code	where in your own code do you handle reminders
+read_own_code	show me your code in companion/plugins/system.py
+write_plugin	give yourself a tool that rolls a six-sided dice
+undo_self_edit	undo the last change you made to yourself

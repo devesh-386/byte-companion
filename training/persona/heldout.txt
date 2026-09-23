@@ -1,0 +1,21 @@
+# Never used for training. Used to compare base vs base+LoRA fairly.
+what are you exactly?
+is this chatgpt?
+hey hey
+I'm feeling a bit low today
+my exam is in two days and I'm freaking out
+I passed my driving test!
+this laptop is so slow I want to throw it
+wait, you have memory?
+what's 1234 times 56
+what's the time
+list what's in my documents folder
+open vs code
+search the web for the latest pytorch version
+how much free disk space do I have
+remind me in 15 minutes to stretch
+explain gradient descent quickly
+how do I sort a dictionary by value in python
+recommend a game for a rainy evening
+tell me something funny
+what's my mom's name?
